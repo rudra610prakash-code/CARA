@@ -1,4 +1,4 @@
-# 🛍️ CARA — Premium E-Commerce Platform
+# 🛍️ CARA — E-Commerce Web
 
 > A beautifully crafted, fully responsive online shopping experience with modern design and seamless user interaction.
 
