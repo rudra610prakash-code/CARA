@@ -9,9 +9,7 @@
 
 ## ✨ Overview
 
-**CARA** is a modern, lightweight e-commerce template built with pure **HTML5**, **CSS3**, and **Vanilla JavaScript**. It delivers an exceptional shopping experience with a focus on user interface excellence, user experience optimization, and complete device responsiveness. Whether customers browse on desktop, tablet, or mobile—CARA adapts beautifully.
-
-Perfect for startups, small businesses, and entrepreneurs looking to launch an online store with professional aesthetics and smooth functionality.
+**CARA** is a modern, lightweight e-commerce template built with pure **HTML5**, **CSS3**, and **Vanilla JavaScript**. It delivers an exceptional shopping experience with a focus on user interface excellence, user experience optimization, and complete device responsiveness. Whether customers browse on desktop, tablet, or mobile—CARA .
 
 ---
 
