@@ -4,7 +4,6 @@
 
 ![CARA](https://img.shields.io/badge/CARA-Shopping-088178?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ---
 
@@ -175,92 +174,6 @@ Gold:             #ffbd27  (Premium, Special)
 
 ---
 
-## 🚀 Getting Started
-
-### **Quick Setup**
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/rudra610prakash-code/CARA.git
-   cd CARA
-   ```
-
-2. **Open in Browser**
-   ```bash
-   # Simply double-click index.html, or
-   # Use a local server for best results
-   ```
-
-3. **Using Python (Local Server)**
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   
-   # Then open http://localhost:8000 in your browser
-   ```
-
-4. **Using Node.js (Live Server)**
-   ```bash
-   npx live-server
-   ```
-
----
-
-## 🔧 Customization Guide
-
-### **Update Product Information**
-Edit product data directly in HTML files:
-```html
-<div class="pro">
-    <img src="img/products/f1.jpg" alt="">
-    <div class="des">
-        <span>Brand Name</span>
-        <h5>Product Name</h5>
-        <h4>$Price</h4>
-    </div>
-</div>
-```
-
-### **Change Colors**
-Modify the CSS variables in `style.css`:
-```css
---primary: #088178;      /* Main brand color */
---secondary: #E3E6F3;    /* Background color */
---accent: #ef3636;       /* Highlight color */
-```
-
-### **Add New Pages**
-1. Create new HTML file (e.g., `faq.html`)
-2. Copy header/footer structure from existing pages
-3. Add custom content in the middle section
-4. Update navigation links in navbar
-
-### **Customize Images**
-Replace images in respective folders:
-- Products: `img/products/`
-- Banners: `img/banner/`
-- Blog: `img/blog/`
-- Features: `img/features/`
-
-### **Update Contact Information**
-Find and update in footer and contact page:
-```html
-<p><strong>Address:</strong> Your Address Here</p>
-<p><strong>Phone:</strong> +1 (234) 567-8900</p>
-<p><strong>Email:</strong> info@yourdomain.com</p>
-```
-
----
-
-## 📊 Performance Metrics
-
-✅ **Lightweight**: ~50KB CSS + ~2KB JavaScript
-✅ **Fast Loading**: Minimal external dependencies
-✅ **Smooth Animations**: Hardware-accelerated CSS transitions
-✅ **Mobile Optimized**: Efficient touch event handling
-✅ **Clean Code**: No frameworks, pure vanilla implementation
-
----
 
 ## 🎓 Technology Stack
 
@@ -284,43 +197,9 @@ Find and update in footer and contact page:
 | **Safari** | ✅ Full Support | ✅ Full Support |
 | **Edge** | ✅ Full Support | ✅ Full Support |
 | **Opera** | ✅ Full Support | ✅ Full Support |
-| **IE 11** | ⚠️ Partial | ❌ No |
 
 ---
 
-## 📈 Future Enhancements
-
-- [ ] Product search functionality
-- [ ] Advanced filtering system
-- [ ] User authentication & accounts
-- [ ] Wishlist feature
-- [ ] Payment gateway integration
-- [ ] Product reviews & ratings
-- [ ] Real-time inventory management
-- [ ] Dark mode theme
-- [ ] Multi-language support
-- [ ] Backend CMS integration
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
-### **Code Guidelines**
-- Follow existing code style
-- Use semantic HTML
-- Write clean, commented CSS
-- Keep JavaScript functions modular
-- Test on multiple devices
-
----
 
 ## 📝 File Descriptions
 
@@ -338,62 +217,12 @@ We welcome contributions! Here's how:
 
 ---
 
-## 🎖️ Best Practices Implemented
-
-✅ **Semantic HTML5**: Proper use of `<header>`, `<section>`, `<footer>`
-✅ **Mobile-First CSS**: Base styles for mobile, then desktop enhancements
-✅ **Accessibility**: Proper alt texts, ARIA labels, semantic elements
-✅ **Performance**: Optimized images, minimal external resources
-✅ **Maintainability**: Clean code structure, logical organization
-✅ **Cross-browser**: Tested on all major browsers
-✅ **SEO-Friendly**: Proper meta tags, semantic markup
-
----
-
-## 📞 Support & Contact
-
-- **Repository**: [GitHub - CARA](https://github.com/rudra610prakash-code/CARA)
-- **Author**: Rudra Prakash (@rudra610prakash-code)
-- **Email**: contact@example.com
-- **Issues**: Report bugs via GitHub Issues
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details. 
-
-You're free to:
-- ✅ Use commercially
-- ✅ Modify the source
-- ✅ Distribute copies
-- ✅ Use privately
-
-Just include the original license and copyright notice.
-
----
 
 ## 🙏 Acknowledgments
 
 - **Font Awesome** for beautiful icons
 - **Google Fonts** for excellent typography
-- **Open Source Community** for inspiration
 - **SIGMA_RUDRA** for the amazing design vision
-
----
-
-## 📊 Project Statistics
-
-```
-📦 Total Files: 12
-📝 HTML Files: 8
-🎨 CSS Files: 1
-⚙️ JS Files: 2
-📁 Asset Folders: 6
-🚀 Zero Dependencies
-⚡ Load Time: < 2 seconds
-📱 Responsive Breakpoints: 4
-```
 
 ---
 
@@ -410,32 +239,5 @@ Just include the original license and copyright notice.
 
 ---
 
-## 💡 Pro Tips
-
-1. **Mobile Testing**: Use Chrome DevTools (F12) → Toggle device toolbar
-2. **Performance**: Use Firefox or Chrome DevTools Lighthouse
-3. **Accessibility**: Check with WAVE or Axe DevTools
-4. **Optimization**: Compress images before deployment
-5. **Analytics**: Integrate Google Analytics for insights
-
----
-
-## 🚀 Deployment
-
-Ready to go live? Here are recommended hosting options:
-
-- **Netlify** (Easiest - drag & drop)
-- **Vercel** (Optimal for static sites)
-- **GitHub Pages** (Free, simple)
-- **Firebase Hosting** (Google's solution)
-- **Shared Hosting** (Traditional approach)
-
----
-
 **Made with ❤️ by Rudra Prakash**
 
-*Last Updated: 2026*
-
----
-
-*Thank you for exploring CARA! If you found it helpful, please consider giving us a ⭐ on GitHub!*
