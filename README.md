@@ -3,7 +3,7 @@
 > A beautifully crafted, fully responsive online shopping experience with modern design and seamless user interaction.
 
 ![CARA](https://img.shields.io/badge/CARA-Shopping-088178?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
+
 
 ---
 
